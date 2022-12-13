@@ -8,3 +8,6 @@ Locally Constrained Least-Squares Inversion of DMRT-QCA for Retrieval of Snowpac
 <img width="520" alt="Screenshot 2022-12-13 at 4 11 16 PM" src="https://user-images.githubusercontent.com/46690843/207455125-415f6517-a7fa-4c72-bce8-8774a60039a8.png">
 
 The inversion algorithm is provided in Demo_single_layer.m. 
+
+<img width="866" alt="Screenshot 2022-12-13 at 4 15 26 PM" src="https://user-images.githubusercontent.com/46690843/207456115-7563d85f-5254-4c8c-a663-b9cf9114e3f3.png">
+Randomized retrievals of depth ($d$), density ($\rho$) and grain size diameter $\delta$ using unconstrained classic nonlinear least-squares in (top row) and the introduced algorithm (bottom row). The observations are from forward simulations of the DMRT-QCA model at GMI frequency channels (10-166 GHz) in the absence of model and observation error -- assuming a single-layer representation of snowpack.
