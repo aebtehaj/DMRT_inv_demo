@@ -19,7 +19,7 @@ Locally Constrained Least-Squares Inversion of DMRT-QCA for Retrieval of Snowpac
 extent of snow cover from the NOAA’s Automated Snow and Ice Mapping Product. Abbreviations of name of some states are shown on the top left panel.
 
 
-<img height="200" alt="Screenshot 2022-12-13 at 9 22 03 PM" src="https://user-images.githubusercontent.com/46690843/207497440-ec3d8d32-ad2c-4169-85ad-bb45ca9c8ef4.png"><img height="195" alt="Screenshot 2022-12-13 at 9 24 10 PM" src="https://user-images.githubusercontent.com/46690843/207497695-afa47e4d-7d8c-4eb2-9612-a75693206f3c.png">
+<img height="200" alt="Screenshot 2022-12-13 at 9 22 03 PM" src="https://user-images.githubusercontent.com/46690843/207497440-ec3d8d32-ad2c-4169-85ad-bb45ca9c8ef4.png"><img height="195" alt="Screenshot 2022-12-13 at 9 24 10 PM" src="https://user-images.githubusercontent.com/46690843/207497695-afa47e4d-7d8c-4eb2-9612-a75693206f3c.png"><img height="200" alt="Screenshot 2022-12-13 at 9 26 30 PM" src="https://user-images.githubusercontent.com/46690843/207498046-0aef013d-ff2a-4fde-8c26-9f4881364163.png">
 
 The inversion algorithm is provided in Demo_single_layer.m. 
 
