@@ -14,6 +14,7 @@ Locally Constrained Least-Squares Inversion of DMRT-QCA for Retrieval of Snowpac
 
 
 <img width="900" alt="Screenshot 2022-12-13 at 9 15 04 PM" src="https://user-images.githubusercontent.com/46690843/207496585-1887e178-d526-4e20-8855-1eceea0e6527.png">
+
 **Figure.2** The level 1B horizontally polarized brightness temperatures from the GPM Microwave Imager (GMI) on February 13, 2020 (orbit # 033870) and the
 extent of snow cover from the NOAA’s Automated Snow and Ice Mapping Product. Abbreviations of name of some states are shown on the top left panel.
 
