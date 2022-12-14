@@ -31,3 +31,4 @@ extent of snow cover from the NOAA’s Automated Snow and Ice Mapping Product. A
 
 The inversion algorithm is provided in Demo_single_layer.m. 
 
+ Note: the paths are set based on a windows machines and need to be modified for mac machines.
