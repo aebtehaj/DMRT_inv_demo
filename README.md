@@ -3,6 +3,7 @@ Ebtehaj A., M. Durand, M. Tedesco (2021), Constrained Inversion of a Microwave S
 
 This article presents a new algorithmic framework for multilayer inversion of the dense media radiative transfer (DMRT) equations of snowpack emission, with particular emphasis on the role of high-frequency microwave channels above 60 GHz. The approach relies on dictionary matching and locally constrained least squares. The results demonstrate that the algorithm can invert the DMRT model and retrieve depth, density, and grain size of a single-layer snowpack when dependencies of density and grain size on depth are properly accounted for. 
 
+## Algorithm and some Results 
 Locally Constrained Least-Squares Inversion of DMRT-QCA for Retrieval of Snowpack using Dictionary Matching.
 
 <p align="center">
